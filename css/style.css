@@ -1,0 +1,35 @@
+
+body{
+  background-color: #66BFBF;
+}
+hr
+{
+  border-style: none;
+  border-bottom-style: dotted;
+  border-color: grey;
+  border-width: 10px;
+  width: 5%
+}
+/*
+}
+h1,h3{
+  color: white;
+}
+p{
+  color: red;
+}
+#par1
+{
+  text-align: left;
+  color: yellow;
+}
+.large
+{
+  text-align: center;
+  font-size: 300%
+} */
+
+ /* { */
+  /* text-align: center;
+  color: blue; */
+/* } */
